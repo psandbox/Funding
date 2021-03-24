@@ -6,4 +6,4 @@
 
 2) If you want to add or ammend a policy, create an issue in the Issue tab.
 
-3) If you want to see the progress of the issue, check out the Project tab.
+3) If you want to see the progress of any outstanding issues, check out the Project tab.
