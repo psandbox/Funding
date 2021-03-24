@@ -1,4 +1,4 @@
-# repo1
+# Funding Discussion
 
 **Where to start...**
 
